@@ -180,7 +180,7 @@ on e.employeeId=s.employeeId
 group by e.employeeId
 order by totalOrders desc;
 
------ OVERALL INSIGHTS
+----- Core Insights
 
 -- 1. Beverages generated the highest revenue among all categories.
 
