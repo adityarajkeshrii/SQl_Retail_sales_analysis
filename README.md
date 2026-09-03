@@ -25,6 +25,7 @@ Employees
 All tables were connected using SQL joins for relational analysis.
 
 📊 Key Metrics
+
 💰 Total Revenue: 1.27M+
 📦 Total Orders: 830
 📉 Average Unit Price: 28.87
