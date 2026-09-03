@@ -34,26 +34,31 @@ All tables were connected using SQL joins for relational analysis.
 🧠 SQL Analysis Performed
 
 👤 Customer Analysis
+
 Identified high-value customers based on revenue contribution
 Analyzed customer order patterns and purchase behavior
 
 📦 Product & Category Analysis
+
 Evaluated category-wise revenue performance
 Identified top-performing product categories (Beverages highest revenue)
 Ranked products using SQL window functions
 
 📊 Sales & Revenue Analysis
+
 Calculated total revenue using discount-adjusted pricing
 Analyzed order-level performance and sales trends
 Generated running total revenue using window functions
 
 👨‍💼 Employee Performance Analysis
+
 Compared employee performance based on total orders handled
 Ranked employees using window functions
 Identified Yael Peled as top performer with 156 orders
 
 
-📈 Key Insights
+📈 Key Insights'
+
 🥇 Beverages emerged as the highest revenue-generating category
 💰 A small group of customers contributed significantly to total revenue
 📈 Revenue showed a consistent upward trend over time
@@ -61,6 +66,7 @@ Identified Yael Peled as top performer with 156 orders
 📊 Sales distribution highlights strong category-wise variation in demand
 
 💡 Business Recommendations
+
 Focus on high-performing categories like Beverages to maximize revenue
 Strengthen customer retention strategies for high-value customers
 Optimize inventory planning based on category performance
